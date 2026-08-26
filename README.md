@@ -82,12 +82,15 @@ The application keeps track of the user's performance throughout the quiz and di
 
 <img width="1080" height="2400" alt="flag_quiz(1)" src="https://github.com/user-attachments/assets/249a721c-b19e-452a-ba4b-fc62c8b7f562" />
 
+
 <img width="1080" height="2400" alt="flag_quiz(2)" src="https://github.com/user-attachments/assets/3c9a403e-0eb5-40a7-95f8-ffa54a7f929b" />
+
 
 <img width="1080" height="2400" alt="flag_quiz" src="https://github.com/user-attachments/assets/ef32a0f9-ef5f-4577-89c3-0a414d8eccad" />
 
 
 ## Result Screen
+
 
 <img width="1080" height="2400" alt="flag_quiz(3)" src="https://github.com/user-attachments/assets/3ca8d398-4a85-453d-b43d-c5b00adaaaf2" />
 
